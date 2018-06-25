@@ -21,7 +21,7 @@ setup(
     version=__version__,
     description="Python wrapper for libmodbus",
     long_description=file_content('README.rst'),
-    author="Stéphane Raimbault",
+    author="Stephane Raimbault",
     author_email="stephane.raimbault@gmail.com",
     url="http://libmodbus.org",
     keywords="python libmodbus",
